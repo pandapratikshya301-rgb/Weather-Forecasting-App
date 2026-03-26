@@ -7,7 +7,7 @@ import io
 from PIL import Image, ImageTk
 
 # --- CONFIG ---
-API_KEY = "f0f000840adb70adc492dfb961d62c5c" 
+API_KEY = "YOUR API KEY" 
 ICON_BASE_URL = "http://openweathermap.org/img/wn/"
 
 class SkyCastVivid(ctk.CTk):
